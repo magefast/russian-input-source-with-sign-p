@@ -1,5 +1,6 @@
-# Russia Input Source for Mac OS with sign of selected Language as letter P
-Как установить?
+# Russians languague Input Source for Mac OS with sign of selected Language as letter P
+
+### Как установить?
 
 1. Открыть `Russian.bundle`
 2. Установить для текущего пользователя или для всех пользователей по выбору
@@ -7,7 +8,7 @@
 
 
 ## English
-How to install?
+### How to install?
 
 1. Open `Russian.bundle`
 2. Install input sources for a current or all users for the system
