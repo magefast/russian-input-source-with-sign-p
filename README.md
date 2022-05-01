@@ -13,3 +13,9 @@
 1. Open `Russian.bundle`
 2. Install input sources for a current or all users for the system
 3. Select `Russian *` input source. Guide: https://support.apple.com/en-gb/guide/mac-help/mchlp1406/mac
+
+<br>
+<br>
+<br>
+
+Source forked from https://github.com/v1ctor/free-russia-input-source
