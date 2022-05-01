@@ -1,19 +1,14 @@
-# Free Russia Input Source for Mac OS
-## Russian
+# Russia Input Source for Mac OS with sign of selected Language as letter P
 Как установить?
 
-1. Скачать, `Free Russia.bundle.zip`
-2. Разархивировать скачанный zip архив
-3. Открыть `Free Russia.bundle`
-4. Установить для текущего пользователя или для всех пользователей по выбору
-5. Выбрать раскладку Free Russia как описано здесь https://support.apple.com/ru-ru/guide/mac-help/mchlp1406/mac
+1. Открыть `Russian.bundle`
+2. Установить для текущего пользователя или для всех пользователей по выбору
+3. Выбрать раскладку Russian как описано здесь https://support.apple.com/ru-ru/guide/mac-help/mchlp1406/mac
 
 
 ## English
 How to install?
 
-1. Download `Free Russia.bundle.zip`
-2. Extract zip archive
-3. Open `Free Russia.bundle`
-4. Install input sources for a current or all users for the system
-5. Select `Free Russia` input source. Guide: https://support.apple.com/en-gb/guide/mac-help/mchlp1406/mac
+1. Open `Russian.bundle`
+2. Install input sources for a current or all users for the system
+3. Select `Russian *` input source. Guide: https://support.apple.com/en-gb/guide/mac-help/mchlp1406/mac
