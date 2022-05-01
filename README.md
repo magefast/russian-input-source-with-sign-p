@@ -19,3 +19,7 @@
 <br>
 
 Source forked from https://github.com/v1ctor/free-russia-input-source
+<br>
+Icon https://www.flaticon.com/premium-icon/parking_3324288?related_id=3324288
+<br>
+Convert PNG to ICNS https://anyconv.com/png-to-icns-converter/
